@@ -1,0 +1,19 @@
+ver 2
+
+Add Remove/Local
+
+
+
+Ver 3
+Apply to Subline Mr Cam
+--> xuat file
+
+
+pyinstaller --onefile --windowed --icon=psw.png --add-data "subline.ui;." --add-data "psw.png;." ver3.py
+
+
+
+Ver4.py
+
+xuat exe ko can .UI file
+pyinstaller --onefile --windowed --icon=psw.png --add-data "subline.ui;." --add-data "psw.png;." ver4.py
