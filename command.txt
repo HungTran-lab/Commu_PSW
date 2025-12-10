@@ -17,3 +17,14 @@ Ver4.py
 
 xuat exe ko can .UI file
 pyinstaller --onefile --windowed --icon=psw.png --add-data "subline.ui;." --add-data "psw.png;." ver4.py
+
+
+Ver5
+
++ Add lock khi chua connect
++ Add button Refresh
++ Add About
+
+Ver6
++ Add rut ket noi --> Disconnect
++ QSetting save COM 
